@@ -16,5 +16,4 @@ Model: Decision tree classifier with 82.38% accuracy.
 Decision trees are effective in predicting outcomes based on structured data and help identify important features like gender and class in survival prediction.
 
 
-Click [here](https://github.com/your-username/your-repository/raw/main/decision_tree_titanic_analysis.ipynb) to download the raw notebook.
 
